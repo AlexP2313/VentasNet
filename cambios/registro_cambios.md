@@ -19,7 +19,7 @@ titulo <<Registro de cambios>>
 * Archivo: src/ventas.py
 * Riesgo: Total incorrecto
 * Prueba: 50 x 3 = 150
-* Decision simulada: Aprobada
+* Decision simulada: implementada y verificada
 
 ---
 
