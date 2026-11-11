@@ -44,5 +44,5 @@ superior a S/ 200>>
 * Archivo: src/ventas.py; docs/requisitos.md
 * Riesgo: Descuento incorrecto en umbral 
 * Prueba: Subtotales 150, 200 y 300 
-* Decision simulada: Aprobada
+* Decision simulada: implementada y verificada
 ----------------
