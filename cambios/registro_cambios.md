@@ -20,7 +20,11 @@ titulo <<Registro de cambios>>
 * Riesgo: Total incorrecto
 * Prueba: 50 x 3 = 150
 * Decision simulada: implementada y verificada
-
+# SEGUIMIENTO
+* Codigos commit / decision / pruebas /version de entrega
+  ** b8117ba -> correcion del calculo  -> verificacion del codigo -> v1.1.0
+  ** 3ed27ce -> integracion al sistema -> verificacion de la integracion -> v1.1.0
+  ** 1c4d8f9 -> verificacion en el sistema -> comprobacion de la funcionalidad en el sistema -> v1.1.0
 ---
 
 ## Solicitud 2: CR-002
@@ -45,4 +49,9 @@ superior a S/ 200>>
 * Riesgo: Descuento incorrecto en umbral 
 * Prueba: Subtotales 150, 200 y 300 
 * Decision simulada: implementada y verificada
+# SEGUIMIENTO
+* Codigos commit / decision / pruebas /version de entrega
+  ** 6cf4326 -> agregar la funcionalidad del descuento  -> verificacion del codigo -> v1.1.0
+  ** ec37bbf -> integracion al sistema -> verificacion de la integracion -> v1.1.0
+  ** 8e465a9 -> verificacion en el sistema -> comprobacion de la funcionalidad en el sistema -> v1.1.0
 ----------------
